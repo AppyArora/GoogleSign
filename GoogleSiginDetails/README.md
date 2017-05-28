@@ -1,4 +1,3 @@
-# Google+ Java Quickstart
+IntellyZen Assignment
 
-The instructions are now here:
-https://developers.google.com/+/quickstart/java
+# Create Client_id and Client_scret token before starting the project
